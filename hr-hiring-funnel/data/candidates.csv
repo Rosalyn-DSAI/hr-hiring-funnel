@@ -1,0 +1,11 @@
+candidate_id,req_id,role,source,applied_date,hired_date
+C001,R001,Data Analyst,Referral,2024-01-03,2024-02-10
+C002,R001,Data Analyst,Job Board,2024-01-05,
+C003,R001,Data Analyst,University,2024-01-06,2024-02-18
+C004,R002,ML Intern,University,2024-02-01,2024-03-05
+C005,R002,ML Intern,Referral,2024-02-03,
+C006,R003,BI Analyst,Job Board,2024-02-12,2024-03-20
+C007,R003,BI Analyst,Career Site,2024-02-15,
+C008,R004,Data Scientist,Referral,2024-03-01,2024-04-07
+C009,R004,Data Scientist,Job Board,2024-03-02,
+C010,R004,Data Scientist,University,2024-03-05,
