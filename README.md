@@ -18,6 +18,22 @@ Analyze the hiring pipeline from **Applied → Hired** and compare **hires by so
   - **Bar chart:** **hires** by source (filter stage = Hired)
   - **Slicer:** interactively filter by source
 
+
+## 📸 Dashboard Screenshots
+### Hiring Funnel
+![Funnel Chart](images/funnel_chart1.png)
+
+### Filtered Funnel Example
+![Funnel Chart Filtered](images/funnel_chart2.png)
+
+### Hires by Source
+![Hires by Source](images/hires_by_stage.source1.png)
+
+### Filtered Hires by Source
+![Filtered Hires by Source](images/hires_by_stage.source2.png)
+
+    
+
 ## 📊 Key Insights (sample)
 - Clear drop-off from **Applied → Screen → Interview → Offer → Hired**
 - Sources like **Referral** and **University** contribute strongly to hires
