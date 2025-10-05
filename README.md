@@ -22,6 +22,21 @@ Analyze the hiring pipeline from **Applied → Hired** and compare **hires by so
 - Clear drop-off from **Applied → Screen → Interview → Offer → Hired**
 - Sources like **Referral** and **University** contribute strongly to hires
 
+
+## 📊 Dashboard Screenshots
+### Hiring Funnel
+![Funnel Chart](images/funnel_chart1.png)
+
+### Filtered Funnel Example
+![Funnel Chart Filtered](images/funnel_chart2.png)
+
+### Hires by Source
+![Hires by Source](images/hires_by_stage.source1.png)
+
+### Filtered Hires by Source
+![Filtered Hires by Source](images/hires_by_stage.source2.png)
+
+
 ## 🚀 Next Steps
 - Add date filters (month/quarter)
 - Add KPIs: time-to-hire, conversion rates
