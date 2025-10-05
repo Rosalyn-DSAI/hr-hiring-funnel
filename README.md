@@ -19,6 +19,11 @@ Analyze the hiring pipeline from **Applied → Hired** and compare **hires by so
   - **Slicer:** interactively filter by source
 
 
+## 📊 Key Insights (sample)
+- Clear drop-off from **Applied → Screen → Interview → Offer → Hired**
+- Sources like **Referral** and **University** contribute strongly to hires
+
+
 ## 📸 Dashboard Screenshots
 ### Hiring Funnel
 ![Funnel Chart](hr-hiring-funnel/images/funnel_chart1.png)
@@ -31,20 +36,32 @@ Analyze the hiring pipeline from **Applied → Hired** and compare **hires by so
 
 ### Filtered Hires by Source
 ![Filtered Hires by Source](hr-hiring-funnel/images/hires_by_stage.source2.png)
-    
 
-## 📊 Key Insights (sample)
-- Clear drop-off from **Applied → Screen → Interview → Offer → Hired**
-- Sources like **Referral** and **University** contribute strongly to hires
-
-## 🚀 Next Steps
-- Add date filters (month/quarter)
-- Add KPIs: time-to-hire, conversion rates
-- Cohort/retention view (30/60/90-day)
 
 ## 🛠️ Tools
 Power BI Desktop (Modeling, DAX basics, Funnels/Bar charts, Slicers)
 
-## 📂 Project Structure
+
+## 🚀 How to Use This Project
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/Rosalyn-DSAI/hr-hiring-funnel.git
+   Open the Hiring_Funnel_Dashboard.pbix file in Power BI Desktop.
+
+2. Explore the dashboard:
+- View hiring funnel stages (Applied → Screen → Interview → Offer → Hired).
+- Filter hires by source (Referral, Job Board, University, Career Site).
+- Use slicers to interactively analyze sources and stages.
+- Data files (candidates.csv, stage_events.csv, sources.csv) are in the /data folder.
+- Reload them into Power BI if you want to extend or customize the dataset.
+
+
+## 🔮 Future Improvements
+- Add date filters (month/quarter) for time-based analysis.
+- Include time-to-hire KPIs and conversion rates.
+- Build a cohort/retention view (30/60/90-day retention).
+- Extend dashboard with predictive analytics (e.g., which sources yield best hires).
+- Connect to a live HR database or API for real-time insights.
+
 
 
