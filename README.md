@@ -46,14 +46,16 @@ Power BI Desktop (Modeling, DAX basics, Funnels/Bar charts, Slicers)
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Rosalyn-DSAI/hr-hiring-funnel.git
-   Open the Hiring_Funnel_Dashboard.pbix file in Power BI Desktop.
+   
+2. Open hr-hiring-funnel/Hiring_Funnel_Dashboard.pbix in Power BI Desktop.
 
-2. Explore the dashboard:
-- View hiring funnel stages (Applied → Screen → Interview → Offer → Hired).
-- Filter hires by source (Referral, Job Board, University, Career Site).
-- Use slicers to interactively analyze sources and stages.
-- Data files (candidates.csv, stage_events.csv, sources.csv) are in the /data folder.
-- Reload them into Power BI if you want to extend or customize the dataset.
+3. Explore the dashboard:
+- View hiring funnel stages (Applied → Screen → Interview → Offer → Hired)
+- Filter hires by source (Referral, Job Board, University, Career Site)
+- Use the slicer to interactively analyze sources and stages
+
+4. Data files (candidates.csv, stage_events.csv, sources.csv) are in the hr-hiring-funnel/data/ folder.
+- Reload them in Power BI if you want to extend or customize the dataset.
 
 
 ## 🔮 Future Improvements
