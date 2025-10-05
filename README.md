@@ -25,16 +25,16 @@ Analyze the hiring pipeline from **Applied → Hired** and compare **hires by so
 
 ## 📊 Dashboard Screenshots
 ### Hiring Funnel
-![Funnel Chart](images/funnel_chart1.png)
+![Funnel Chart](../images/funnel_chart1.png)
 
 ### Filtered Funnel Example
-![Funnel Chart Filtered](images/funnel_chart2.png)
+![Funnel Chart Filtered](../images/funnel_chart2.png)
 
 ### Hires by Source
-![Hires by Source](images/hires_by_stage.source1.png)
+![Hires by Source](../images/hires_by_stage.source1.png)
 
 ### Filtered Hires by Source
-![Filtered Hires by Source](images/hires_by_stage.source2.png)
+![Filtered Hires by Source](../images/hires_by_stage.source2.png)
 
 
 ## 🚀 Next Steps
